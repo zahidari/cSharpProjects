@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AlarmUygulamasiFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AsalSayiBulma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BesAdetNotGirInputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BuyukKucukBulma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ComboBoxEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DateTimePickerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DizilerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="arkaPlanDegistir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IkiTarihArasındakiFark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListBoxileArkaPlanDegistirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListBoxOgrenciVeriIsle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MatematikselFonksiyonlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MessgeBoxOlusturma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pictureBoxVeOpenFileDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProgressBarKullanimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RadioButtonKullanimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScrolBarIleRenkDegisimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThreadKullanimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TimerOlusturma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToolStripKullanimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrackBarKullanimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VeritabaniUygulamasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VisualBasicKullanimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
