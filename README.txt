@@ -1,1 +1,1 @@
-a project developed by using multiple C# tutorials.
+A project developed by applying various C# tutorials.
